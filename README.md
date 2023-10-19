@@ -37,7 +37,6 @@ Users should be able to:
 ### Built with
 
 - Flexbox
-- Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
 
 ## Author
