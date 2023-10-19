@@ -1,0 +1,29 @@
+.ratings {
+  margin: 2rem 0;
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.rate-btn {
+  border: none;
+  border-radius: 50%;
+  color: var(--medium-grey);
+  background-color: var(--dark-blue);
+  width: 50px;
+  height: 50px;
+  font-weight: 700;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.rate-btn.selected {
+  color: var(--white);
+  background-color: var(--light-grey);
+}
+
+.rate-btn:hover {
+  color: var(--white);
+  background-color: var(--primary-color);
+}

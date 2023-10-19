@@ -1,0 +1,19 @@
+.image {
+  margin-bottom: 2rem;
+}
+
+.rate {
+  color: var(--primary-color);
+  background-color: var(--dark-blue);
+  padding: 0.5rem 1rem;
+  border-radius: 20px;
+}
+
+.header {
+  color: var(--white);
+}
+
+.text {
+  color: var(--light-grey);
+  text-align: center;
+}

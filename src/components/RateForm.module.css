@@ -1,0 +1,35 @@
+.star {
+  background-color: var(--dark-blue);
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 2rem;
+}
+
+.card__header {
+  color: var(--white);
+}
+
+.card__desc {
+  color: var(--light-grey);
+}
+
+.card__btn {
+  color: var(--white);
+  background-color: var(--primary-color);
+  width: 100%;
+  border: none;
+  border-radius: 25px;
+  padding: .7rem 0;
+  font-size: 16px;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.card__btn:hover {
+  color: var(--primary-color);
+  background-color: var(--white);
+}
