@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-qr-component-jic3dUsBPM)
-- Live Site URL: [Add live site URL here](https://interactive-rating-ashkan.netlify.app/)
+- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/responsive-qr-component-jic3dUsBPM)
+- Live Site URL: [live site](https://interactive-rating-ashkan.netlify.app/)
 
 ## My process
 
